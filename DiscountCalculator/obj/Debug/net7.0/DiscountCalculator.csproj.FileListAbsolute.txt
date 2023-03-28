@@ -1,0 +1,12 @@
+D:\repos\Private\RulesEngine\DiscountCalculator\bin\Debug\net7.0\DiscountCalculator.deps.json
+D:\repos\Private\RulesEngine\DiscountCalculator\bin\Debug\net7.0\DiscountCalculator.dll
+D:\repos\Private\RulesEngine\DiscountCalculator\bin\Debug\net7.0\DiscountCalculator.pdb
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.csproj.AssemblyReference.cache
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.AssemblyInfoInputs.cache
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.AssemblyInfo.cs
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.dll
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\refint\DiscountCalculator.dll
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\DiscountCalculator.pdb
+D:\repos\Private\RulesEngine\DiscountCalculator\obj\Debug\net7.0\ref\DiscountCalculator.dll
